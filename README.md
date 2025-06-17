@@ -1,6 +1,6 @@
 # Compile
 ```
-git clone 
+git clone https://github.com/0xkhch/star-grav.git
 cd star-gravitation
 make
 ```
